@@ -9,47 +9,65 @@ const artistName = document.querySelector(".music-player p");
 
 const songs = [
   {
-    title: "Symphony",
-    name: "Clean Bandit ft. Zara Larsson",
+    title: "Apna Bana Le",
+    name: "ft. Arjit Singh",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Clean-Bandit-Symphony.mp3",
+      "https://github.com/Varp17/MusicLove/raw/main/MusicNik/Apna%20Bana%20Le%20-%20Full%20Audio%20%20%20Bhediya%20%20%20Varun%20Dhawan%2C%20Kriti%20Sa.mp3",
   },
   {
-    title: "Pawn It All",
-    name: "Alicia Keys",
+    title: "Chashni",
+    name: "Vishal & Shekhar feat. Abhijeet Srivastava",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Pawn-It-All.mp3",
+      "https://github.com/Varp17/MusicLove/raw/main/MusicNik/Chashni%20-%20Abhijeet%20Srivastava.mp3",
   },
   {
-    title: "Seni Dert Etmeler",
-    name: "Madrigal",
+    title: "Kesariya",
+    name: "Arjit Singh",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Madrigal-Seni-Dert-Etmeler.mp3",
+      "https://github.com/Varp17/MusicLove/raw/main/MusicNik/Kesariya%20-%20Arijit%20Singh.mp3",
   },
   {
-    title: "Instant Crush",
-    name: "Daft Punk ft. Julian Casablancas",
+    title: "Kudi Nu Nachne De",
+    name: " Vishal Dadlani, Sachin- Jigar",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Daft-Punk-Instant-Crush.mp3",
+      "https://github.com/Varp17/MusicLove/raw/main/MusicNik/Kudi%20Nu%20Nachne%20De%20%20Angrezi%20Medium%20%20%20Anushka%2CKatrina%2CAlia%2CJan.mp3",
   },
   {
-    title: "As It Was",
-    name: "Harry Styles",
+    title: "Pal Pal Dil Ke Pass",
+    name: "Arjit Singh | Sachet-Parampara",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Harry-Styles-As-It-Was.mp3",
+      "https://github.com/Varp17/MusicLove/raw/main/MusicNik/Pal%20Pal%20Dil%20Ke%20Paas-%20Title%20Track%20(feat.%20Karan%20Deol%20%D0%B8%20Sahher.mp3",
+  },
+  {
+    title: "Tere Naina",
+    name: "Shafqat Amanat Ali",
+    source:
+      "https://github.com/Varp17/MusicLove/raw/main/MusicNik/Tere%20Naina%20(From%20%20My%20Name%20Is%20Khan%20)%20-%20Shafqat%20Amanat%20Ali.mp3",
   },
 
   {
-    title: "Physical",
-    name: "Dua Lipa",
+    title: "Tum Hi Ho",
+    name: "Arjit Singh",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Dua-Lipa-Physical.mp3",
+      "https://github.com/Varp17/MusicLove/raw/main/MusicNik/Tum%20Hi%20Ho%20-%20Arijit%20Singh.mp3",
   },
   {
-    title: "Delicate",
-    name: "Taylor Swift",
+    title: "Tum Se",
+    name: "Sachin-Jigar, Raghav Chaitanya, Varun Jain",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Taylor-Swift-Delicate.mp3",
+      "https://github.com/Varp17/MusicLove/blob/main/MusicNik/Tum%20Se%20(Full%20Video)_%20Shahid%20Kapoor%2C%20Kriti%20%20Sachin-Jigar%2C%20Raghav%20Chaitanya%2C%20Varun%20Jain%2C%20Indraneel.mp3",
+  },
+  {
+    title: "Vachindamma  | Geeta Govinda",
+    name: "Gopi Sundar | Sri Mani |  Sid Sriram",
+    source:
+      "https://github.com/Varp17/MusicLove/raw/main/MusicNik/Vachindamma%20Full%20Video%20Song%20%20%20%20Geetha%20Govindam%20Songs%20%20%20%20Vija.mp3",
+  },
+  {
+    title: "Zaalima",
+    name: "Arjit Singh",
+    source:
+      "https://github.com/Varp17/MusicLove/raw/main/MusicNik/Zaalima%20-%20Arijit%20Singh%20%D0%B8%20%D0%A5%D0%B0%D1%80%D1%88%D0%B4%D0%B8%D0%BF%20%D0%9A%D0%B0%D1%83%D1%80.mp3",
   },
 ];
 
